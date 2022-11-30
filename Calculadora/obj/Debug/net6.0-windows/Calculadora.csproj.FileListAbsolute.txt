@@ -1,0 +1,17 @@
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.exe
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.deps.json
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.runtimeconfig.json
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.dll
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\bin\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.AssemblyReference.cache
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.Form1.resources
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.GenerateResource.cache
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfoInputs.cache
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.AssemblyInfo.cs
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.dll
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\refint\Calculadora.dll
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.pdb
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\Calculadora.genruntimeconfig.cache
+C:\Users\domin\Documents\Luiz Eduardo\INSTED\2\POO\Luiz Eduardo\Calculadora\Calculadora\obj\Debug\net6.0-windows\ref\Calculadora.dll
